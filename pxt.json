@@ -1,5 +1,5 @@
 {
-    "name": "CARRO CON PUENTE H",
+    "name": "CARRO CON PUENTE H - SEGUIDOR DE LINEA",
     "description": "",
     "dependencies": {
         "core": "*",
